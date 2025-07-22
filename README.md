@@ -10,6 +10,9 @@ The project includes:
 - Use of headings, paragraphs, lists, links, and images
 
 ## Roadmap/To-Do List
+<details>
+<summary>Click to View</summary>
+
 - [x] `index.html`
     - [x] Boilerplate
     - [x] h1 Odin Recipes
@@ -38,7 +41,7 @@ The project includes:
     - [x] h2 Description
     - [x] h3 Ingredients
     - [x] h2 Steps
-
+</details>
 
 ## Skills Demonstrated
 
