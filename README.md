@@ -47,3 +47,6 @@ By completing this project, I have:
 - Learned how to structure a multi-page website
 - Practised using relative paths for linking between pages and images
 - Improved confidence using Git for version control
+
+## All Odin Projects
+- odin-recipes
