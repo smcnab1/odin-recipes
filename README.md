@@ -15,13 +15,21 @@ The project includes:
     - [x] h1 Odin Recipes
     - [x] h1 link to recipe page
 - [ ] Recipe Page `balmoral-chicken.html`
-    - [ ] Boilerplate
-    - [ ]`recipes` directory
-    - [ ] h1 link to index page
-    - [ ] image under h1
-    - [ ] h2 Description
-    - [ ] h3 Ingredients
-    - [ ] h2 Steps
+    - [x] Boilerplate
+    - [x]`recipes` directory
+    - [x] h1 link to index page
+    - [x] image under h1
+    - [x] h2 Description
+    - [x] h3 Ingredients
+    - [x] h2 Steps
+- [x] Recipe Page `cereal.html`
+    - [x] Boilerplate
+    - [x]`recipes` directory
+    - [x] h1 link to index page
+    - [x] image under h1
+    - [x] h2 Description
+    - [x] h3 Ingredients
+    - [x] h2 Steps
 - [ ] Recipe Page `instant-ramen.html`
     - [ ] Boilerplate
     - [ ]`recipes` directory
@@ -30,14 +38,7 @@ The project includes:
     - [ ] h2 Description
     - [ ] h3 Ingredients
     - [ ] h2 Steps
-- [ ] Recipe Page `cereal.html`
-    - [ ] Boilerplate
-    - [ ]`recipes` directory
-    - [ ] h1 link to index page
-    - [ ] image under h1
-    - [ ] h2 Description
-    - [ ] h3 Ingredients
-    - [ ] h2 Steps
+
 
 ## Skills Demonstrated
 
