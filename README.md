@@ -14,9 +14,9 @@ The project includes:
     - [x] Boilerplate
     - [x] h1 Odin Recipes
     - [x] h1 link to recipe page
-- [ ] Recipe Page `balmoral-chicken.html`
+- [x] Recipe Page `balmoral-chicken.html`
     - [x] Boilerplate
-    - [x]`recipes` directory
+    - [x] recipes directory
     - [x] h1 link to index page
     - [x] image under h1
     - [x] h2 Description
@@ -24,20 +24,20 @@ The project includes:
     - [x] h2 Steps
 - [x] Recipe Page `cereal.html`
     - [x] Boilerplate
-    - [x]`recipes` directory
+    - [x] recipes directory
     - [x] h1 link to index page
     - [x] image under h1
     - [x] h2 Description
     - [x] h3 Ingredients
     - [x] h2 Steps
-- [ ] Recipe Page `instant-ramen.html`
-    - [ ] Boilerplate
-    - [ ]`recipes` directory
-    - [ ] h1 link to index page
-    - [ ] image under h1
-    - [ ] h2 Description
-    - [ ] h3 Ingredients
-    - [ ] h2 Steps
+- [x] Recipe Page `instant-ramen.html`
+    - [x] Boilerplate
+    - [x] recipes directory
+    - [x] h1 link to index page
+    - [x] image under h1
+    - [x] h2 Description
+    - [x] h3 Ingredients
+    - [x] h2 Steps
 
 
 ## Skills Demonstrated
@@ -47,5 +47,3 @@ By completing this project, I have:
 - Learned how to structure a multi-page website
 - Practised using relative paths for linking between pages and images
 - Improved confidence using Git for version control
-
-This project lays the groundwork for understanding how websites are built and structured, forming a solid base for moving on to CSS and JavaScript.
